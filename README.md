@@ -1,2 +1,2 @@
 # homework-2
-Code Refractor Project due 06.13.2020
+Code Refactor Project due 06.13.2020
