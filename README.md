@@ -1,4 +1,5 @@
 <<<<<<< new-code
+
 Link to deployed page: https://julieann2330.github.io/code-refactor/
 
 <img src="./coderefactor.png" alt="screenshot">
@@ -54,7 +55,5 @@ You are required to submit the following for review:
 #Code Refactor Project
 Code Refactor Project due 06.13.2020
 
-Link to deployed site: https://julieann2330.github.io/code-refactor/
-
->>>>>>> master
+>>>>>> master
 
