@@ -2,6 +2,8 @@
 
 Link to deployed page: https://julieann2330.github.io/code-refactor/
 
+<img src="./code-refactor.png>"
+
 # homework-2
 Code Refractor Project due 06.13.2020
 
